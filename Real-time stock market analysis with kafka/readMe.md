@@ -33,5 +33,17 @@ Receiving the data(It broke the server since it was only a t2-micro)
 
 ![{1D6108C4-F6F2-4B21-A947-6E359BCB6AFA}](https://github.com/user-attachments/assets/49f00f52-3452-4abf-9ed7-f50ce301e2bc)
 
+Taking the information and saving it in the bucket
+![{69913B3A-A2E2-493D-ABFE-BDF484C72F52}](https://github.com/user-attachments/assets/47d957e4-3400-4f21-8b4e-ba9505ce1eff)
+
+![{7B890FFA-4987-4271-AC0A-4CBB588C8BDB}](https://github.com/user-attachments/assets/7f4c1582-f738-4a7d-81da-580153d5f3ac)
+
+A crawler was created to make the data available for querying from athena
+
+![{5D9FA31B-B407-41E5-9E67-B601ED1496D5}](https://github.com/user-attachments/assets/85e107c1-0fc8-4e2e-a3d1-742c2ef0a7cb)
+
+This is how the table look in athena
+
+![{E71B83F9-3CA2-4496-9EA9-DA8ED5F1B2F2}](https://github.com/user-attachments/assets/315a516a-9faf-46fa-8418-c8e5693a5b3f)
 
 # Final Comments
