@@ -47,3 +47,5 @@ This is how the table look in athena
 ![{E71B83F9-3CA2-4496-9EA9-DA8ED5F1B2F2}](https://github.com/user-attachments/assets/315a516a-9faf-46fa-8418-c8e5693a5b3f)
 
 # Final Comments
+
+This was a project where I didn't learned much about aws since I used tools that I'm already used to but I learned a lot about kafka and zookeper. I had some problems with the RAM in the machine since it was only 1MB but adjusting some parameters from the JVM it fixed.  
